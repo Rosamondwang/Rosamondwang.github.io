@@ -55,7 +55,9 @@ FMA International Annual Meeting, 2024
 <br><br>
 ## Teaching
 EFIMM0005, Quantitative Methods for Finance and Investment, Postgraduate (2022-2024)
+
 EFIM10029, Financial Markets, Institutions and Instruments, Postgraduate (2022-2025)
+
 EFIM20042, Corporate Finance and Valuation, Undergraduate (2021-2022)
 
 <br><br>
