@@ -7,50 +7,57 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Welcome to my website! I am Yirong Wang (王艺蓉).
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am a PhD Candidate in Finance at the University of Bristol Business School, where I enrolled in Autumn 2021 and have been fully funded by the School’s PhD Scholarship. My research interests lie in **empirical asset pricing, international finance, macro-finance, and return predictability**, with a particular emphasis on risk-based explanations for variations in asset prices across international markets. 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+**About Me** 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I hold a Research Master’s degree in Advanced Studies in Economics from KU Leuven, Belgium, and a Bachelor’s degree in Economics from the University of Warsaw, Poland. I was born and raised in Urumqi, Xinjiang Province, China, where my favorite foods are pilaf (抓饭 pilav) and Naan (馕 náng).
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+***I will be on the job market in 2025–26.***
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<br><br>   <!-- adds two line breaks -->
 
-**Markdown generator**
+## Working Papers
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+**Deviations from Covered Interest Rate Parity, Dollar Funding Pressure, and Currency Risk Premium (Job Market Paper)**
+<p align="justify">
+Abstract: This paper investigates the relationship between deviations from Covered Interest Rate Parity (CIP)
+and the cross-sectional variation in currency risk premia. Motivated by the currency hedging channel proposed
+by Liao and Zhang (2025), CIP deviations are interpreted as a measure of postcrisis dollar funding pressure,
+reflecting imbalances between excessive dollar hedging demand and constrained funding supply. Utilizing G10
+currency data, I show that currencies with higher unconditional cross-currency basis values yield significantly
+higher excess returns, indicating compensation for bearing greater dollar funding pressure risk. A tradable
+trading strategy that longs in currencies with high basis and shorts currencies with low basis, referred to as the
+global cross-currency basis factor, delivers economically large and statistically significant returns, explaining
+a substantial portion of cross-sectional variation in currency returns and outperforming standard risk factors.
+Moreover, the basis factor subsumes information embedded in nominal interest differentials (i.e., carry trade)
+and global trade and capital flow imbalances in the postcrisis period, providing an additional risk-based
+explanation of the forward premium puzzle.
+</p>   
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**Presentations** (including scheduled*): AFA (PhD poster) 2026*, EURO-FIDAI Paris December 2025*, Shanghai Jiaotong University Doctor Consortium 2025
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+<br><br> 
+**Capturing Time-Varying Return Predictability: the Multi-Asset Momentum Strategy with Dynamic Trading Signals** with Richard D.F. Harris and Nick Taylor (Revise & Resubmit at Management Science)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<p align="justify">
+Abstract: This paper uncovers a time-varying predictable pattern in returns across the bond, equity, and forex markets. Exploiting these time variations in cross-asset return predictability, we develop a dynamic approach to generate out-of-sample trading signals that are employed in a diversified multi-asset time series momentum(M-XTSM) strategy. This approach effectively converts return forecasts into economic gains by allowing investors to adjust their trading positions in real-time in response to changing business cycles. Applying this method to data from 20 developed countries, we show that the M-XTSM strategy delivers substantial abnormal returns with little exposure to standard asset pricing factors and consistently outperforms existing momentum strategies, especially during market downturns. The M-XTSM strategy encompasses the traditional time series momentum (Moskowitz et al., 2012), and its outperformance is not driven by time-varying aggregate market behaviors, rendering it a distinct new phenomenon from cross-sectional momentum (Jegadeesh and Titman, 1993).
+</p>   
+
+**Presentations**: Asian FA Annual Meeting 2024; University of Bristol Brownbag Seminar; Shanghai
+Jiaotong University Doctor Consortium 2024; Germany Finance Association Annual Meeting (DGF) 2024;
+FMA International Annual Meeting, 2024
+
+<br><br>
+## Teaching
+EFIMM0005, Quantitative Methods for Finance and Investment, Postgraduate (2022-2024)
+EFIM10029, Financial Markets, Institutions and Instruments, Postgraduate (2022-2025)
+EFIM20042, Corporate Finance and Valuation, Undergraduate (2021-2022)
+
+<br><br>
+
+
