@@ -41,7 +41,7 @@ and global trade and capital flow imbalances in the postcrisis period, providing
 explanation of the forward premium puzzle.
 </p>   
 
-**Presentations** (including scheduled*): AFA (PhD poster) 2026*, EURO-FIDAI Paris December 2025*, Shanghai Jiaotong University Doctor Consortium 2025
+**Presentations** (including scheduled*): AFA (PhD poster) 2026*, EURO-FIDAI Paris December 2025*, Shanghai Jiaotong University Doctor Consortium 2025 (excellent PhD papers award)
 
 <br><br> 
 **Capturing Time-Varying Return Predictability: the Multi-Asset Momentum Strategy with Dynamic Trading Signals** with Richard D.F. Harris and Nick Taylor (Revise & Resubmit at Management Science)
@@ -51,8 +51,7 @@ Abstract: This paper uncovers a time-varying predictable pattern in returns acro
 </p>   
 
 **Presentations**: Asian FA Annual Meeting 2024; University of Bristol Brownbag Seminar; Shanghai
-Jiaotong University Doctor Consortium 2024; Germany Finance Association Annual Meeting (DGF) 2024;
-FMA International Annual Meeting, 2024
+Jiaotong University Doctor Consortium 2024 (excellent PhD papers award); Germany Finance Association Annual Meeting (DGF) 2024; FMA International Annual Meeting, 2024
 
 <br><br>
 ## Teaching
