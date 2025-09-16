@@ -29,7 +29,7 @@ author:
   #bio              : "Short biography for the left-hand sidebar"
   #location         : "Bristol, UK"
   #employer         : ""
-  #uri              : # URL
+  uri              : https://research-information.bris.ac.uk/en/persons/yirong-wang
   email            : "yirong.wang@bristol.ac.uk" 
 
   # Academic websites
