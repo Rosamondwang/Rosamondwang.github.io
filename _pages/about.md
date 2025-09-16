@@ -19,8 +19,7 @@ I hold a Research Master’s degree in Advanced Studies in Economics from KU Leu
 
 Upcoming trips:
 
-EURO-FIDAI Paris December 2025
-AFA in Philadelphia 2026
+EURO-FIDAI Paris December 2025; AFA in Philadelphia 2026
 
 
 <br><br>   <!-- adds two line breaks -->
