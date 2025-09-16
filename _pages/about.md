@@ -30,14 +30,13 @@ EURO-FIDAI Paris December 2025; AFA in Philadelphia 2026
 <p align="justify">
 Abstract: This paper investigates the relationship between deviations from Covered Interest Rate Parity (CIP)
 and the cross-sectional variation in currency risk premia. Motivated by the currency hedging channel proposed
-by Liao and Zhang (2025), CIP deviations are interpreted as a measure of postcrisis dollar funding pressure,
+by Liao and Zhang (2025), I interpret the CIP violations as a measure of postcrisis dollar funding pressure,
 reflecting imbalances between excessive dollar hedging demand and constrained funding supply. Utilizing G10
 currency data, I show that currencies with higher unconditional cross-currency basis values yield significantly
 higher excess returns, indicating compensation for bearing greater dollar funding pressure risk. A tradable
 trading strategy that longs in currencies with high basis and shorts currencies with low basis, referred to as the
-global cross-currency basis factor, delivers economically large and statistically significant returns, explaining
-a substantial portion of cross-sectional variation in currency returns and outperforming standard risk factors.
-Moreover, the basis factor subsumes information embedded in nominal interest differentials (i.e., carry trade)
+*global cross-currency basis* factor, delivers economically large and statistically significant returns, explaining
+a substantial portion of cross-sectional variation in currency returns and outperforming standard risk factors after the crisis. Moreover, the basis factor subsumes information embedded in nominal interest differentials (i.e., carry trade)
 and global trade and capital flow imbalances in the postcrisis period, providing an additional risk-based
 explanation of the forward premium puzzle.
 </p>   
