@@ -65,8 +65,12 @@ EFIM20042, Corporate Finance and Valuation, Undergraduate (2021-2022)
 <br><br>
 ## Photographs
 
-<img src="tianchi.png" alt="Picture taken at Tianchi, Moutain of God in Fukang, Xinjiang">
+<img src="tianchi.png" alt="Picture taken at Tianchi, Moutain of God in Fukang, Xinjiang" width="80%">
 
-<img src="desert.png" alt="Picture taken at Kumtag Desert in Shanshan, Xinjiang" >
+Picture taken at Tianchi, Moutain of God in Fukang, Xinjiang
 
-<img src="huoyanshan.png" alt="Picture taken at the Flaming Mountains (Huoyan Mountains) in Turpan, Xinjiang" >
+<img src="desert.png" alt="Picture taken at Kumtag Desert in Shanshan, Xinjiang" width="50%">
+Picture taken at Kumtag Desert in Shanshan, Xinjiang
+
+<img src="huoyanshan.png" alt="Picture taken at the Flaming Mountains (Huoyan Mountains) in Turpan, Xinjiang" width="70%">
+Picture taken at the Flaming Mountains (Huoyan Mountains) in Turpan, Xinjiang
