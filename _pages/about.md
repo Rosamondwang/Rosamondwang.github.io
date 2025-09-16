@@ -11,10 +11,16 @@ Welcome to my website!
 
 I am Yirong Wang. I am a PhD Candidate in Finance at the University of Bristol Business School (starting from Oct 2021), where I have been fully funded by the School’s PhD Scholarship. My research interests lie in **empirical asset pricing, international finance, macro-finance, and return predictability**, with a particular emphasis on risk-based explanations for variations in asset prices across international markets. 
 
-I hold a Research Master’s degree in Advanced Studies in Economics from KU Leuven, Belgium, and a Bachelor’s degree in Economics from the University of Warsaw, Poland. I was born and raised in Urumqi, Xinjiang Province, China, where my favorite foods are pilaf (抓饭 pilav) and Naan (馕 náng).
+I hold a Research Master’s degree in Advanced Studies in Economics from KU Leuven, Belgium, and a Bachelor’s degree in Economics from the University of Warsaw, Poland. I was born and raised in Urumqi, Xinjiang Province, China, where my favorite foods are *pilaf* (抓饭 pilav) and *naan* (馕 náng).
 
 
 ***I will be on the job market in 2025–26.***
+
+
+Upcoming trips:
+
+EURO-FIDAI Paris December 2025
+AFA in Philadelphia 2026
 
 
 <br><br>   <!-- adds two line breaks -->
