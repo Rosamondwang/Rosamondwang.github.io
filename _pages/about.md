@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! 
+Welcome to my website! hhhhhhhhhhhhhhhhhhhhhhhhhh
 
 I am Yirong Wang. I am a PhD Candidate in Finance at the University of Bristol, Business School (starting from Oct 2021), where I have been fully funded by the School’s PhD Scholarship. My research interests lie in **empirical asset pricing, international finance, macro-finance, and return predictability**, with a particular emphasis on risk-based explanations for variations in asset prices across international markets. 
 
