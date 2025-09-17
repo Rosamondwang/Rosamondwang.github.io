@@ -16,13 +16,14 @@ I hold a research master’s degree in Advanced Studies in Economics and a maste
 
 ***I will be on the job market in 2025–26.***
 
+<br>
 
 Upcoming trips:
 
 EURO-FIDAI Paris December 2025; AFA in Philadelphia 2026
 
 
-<br><br>   <!-- adds two line breaks -->
+<br><br><br>   <!-- adds two line breaks -->
 
 ## Working Papers
 
@@ -53,7 +54,9 @@ Abstract: This paper uncovers a time-varying predictable pattern in returns acro
 **Presentations**: Asian FA Annual Meeting 2024; University of Bristol Brownbag Seminar; Shanghai
 Jiaotong University Doctor Consortium 2024 (excellent PhD papers award); Germany Finance Association Annual Meeting (DGF) 2024; FMA International Annual Meeting, 2024
 
-<br><br>
+
+
+<br><br><br> 
 ## Teaching
 EFIMM0005, Quantitative Methods for Finance and Investment, Postgraduate (2022-2024)
 
@@ -62,15 +65,19 @@ EFIM10029, Financial Markets, Institutions and Instruments, Postgraduate (2022-2
 EFIM20042, Corporate Finance and Valuation, Undergraduate (2021-2022)
 
 
-<br><br>
+<br><br><br> 
+
 ## Photographs
 
-<img src="tianchi.png" alt="Picture taken at Tianchi, Moutain of God in Fukang, Xinjiang" width="60%">
+<img src="Rosamondwang.github.io/_pages
+/tianchi.png" alt="Picture taken at Tianchi, Moutain of God in Fukang, Xinjiang" width="60%">
 
 Picture taken at Tianchi, Moutain of God in Fukang, Xinjiang
 
-<img src="desert.png" alt="Picture taken at Kumtag Desert in Shanshan, Xinjiang" width="60%">
+<img src="Rosamondwang.github.io/_pages
+/desert.png" alt="Picture taken at Kumtag Desert in Shanshan, Xinjiang" width="60%">
 Picture taken at Kumtag Desert in Shanshan, Xinjiang
 
-<img src="huoyanshan .png" alt="Picture taken at the Flaming Mountains (Huoyan Mountains) in Turpan, Xinjiang" width="60%">
+<img src="Rosamondwang.github.io/_pages
+/huoyanshan .png" alt="Picture taken at the Flaming Mountains (Huoyan Mountains) in Turpan, Xinjiang" width="60%">
 Picture taken at the Flaming Mountains (Huoyan Mountains) in Turpan, Xinjiang
