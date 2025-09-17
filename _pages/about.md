@@ -69,13 +69,11 @@ EFIM20042, Corporate Finance and Valuation, Undergraduate (2021-2022)
 
 ## Photographs
 
-<img src="Rosamondwang.github.io/_pages
-/tianchi.png" alt="Picture taken at Tianchi, Moutain of God in Fukang, Xinjiang" width="60%">
+<img src="Rosamondwang.github.io/tianchi.png" alt="Picture taken at Tianchi, Moutain of God in Fukang, Xinjiang" width="60%">
 
 Picture taken at Tianchi, Moutain of God in Fukang, Xinjiang
 
-<img src="Rosamondwang.github.io/_pages
-/desert.png" alt="Picture taken at Kumtag Desert in Shanshan, Xinjiang" width="60%">
+<img src="Rosamondwang.github.io/desert.png" alt="Picture taken at Kumtag Desert in Shanshan, Xinjiang" width="60%">
 Picture taken at Kumtag Desert in Shanshan, Xinjiang
 
 <img src="Rosamondwang.github.io/_pages
