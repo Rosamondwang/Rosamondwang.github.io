@@ -76,6 +76,5 @@ Picture taken at Tianchi, Moutain of God in Fukang, Xinjiang
 <img src="_pages/desert.png" alt="Kumtag Desert" width="60%">
 Picture taken at Kumtag Desert in Shanshan, Xinjiang
 
-<img src="Rosamondwang.github.io/_pages
-/huoyanshan .png" alt="the Flaming Mountains (Huoyan Mountains)" width="60%">
+<img src="huoyanshan .png" alt="the Flaming Mountains (Huoyan Mountains)" width="60%">
 Picture taken at the Flaming Mountains (Huoyan Mountains) in Turpan, Xinjiang
