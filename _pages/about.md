@@ -9,12 +9,10 @@ redirect_from:
 
 Welcome to my website! 
 
-I am Yirong Wang. I am a PhD Candidate in Finance at the University of Bristol, Business School (starting from Oct 2021), where I have been fully funded by the School’s PhD Scholarship. My research interests lie in **empirical asset pricing, international finance, macro-finance, and return predictability**, with a particular emphasis on risk-based explanations for variations in asset prices across international markets. 
-
-I hold a research master’s degree in Advanced Studies in Economics and a master's degree in Business Economics from KU Leuven, Belgium, and a bachelor’s degree in Economics from the University of Warsaw, Poland. I was born and raised in Urumqi, Xinjiang Province, China, where my favorite foods are *pilaf* (抓饭 pilav) and *naan* (馕 náng).
+I am Yirong Wang. I am a PhD Candidate in Finance at the University of Bristol, Business School (starting from Oct 2021), where I have been fully funded by the School’s PhD Scholarship. I am under the supervision of Prof. Richard D.F. Harris and Prof. Nick Taylor. My research interests lie in **empirical asset pricing, international finance and macro-finance**, with a particular emphasis on risk-based explanations for variations in asset prices across international markets. 
 
 
-***I will be on the job market in 2025–26.***
+***I am on the job market in 2025–26.***
 
 <br>
 
@@ -24,6 +22,22 @@ EURO-FIDAI Paris December 2025; AFA in Philadelphia 2026
 
 
 <br><br><br>   <!-- adds two line breaks -->
+## Education
+
+**University of Bristol**, UK 
+Ph.D in Finance (2021-now)
+
+**KU Leuven**, Belgium
+MPhil in Advanced Studies in Economics (2020) 
+
+**KU Leuven**, Belgium
+MSc in Business Economics (2018)
+
+**University of Warsaw**, Poland
+Bsc in Economics, Accounting and Finance (2017)
+
+<br><br><br> 
+
 
 ## Working Papers
 
@@ -42,9 +56,10 @@ and global trade and capital flow imbalances in the postcrisis period, providing
 explanation of the forward premium puzzle.
 </p>   
 
-**Presentations** (including scheduled*): AFA (PhD poster) 2026*, EURO-FIDAI Paris December 2025*, Shanghai Jiaotong University Doctor Consortium 2025 (excellent PhD papers award)
+**Presentations** (including scheduled): AFA (PhD poster) 2026*, EURO-FIDAI Paris December 2025*, Shanghai Jiaotong University Doctor Consortium 2025 (excellent PhD papers award)
 
 <br><br> 
+
 **Capturing Time-Varying Return Predictability: the Multi-Asset Momentum Strategy with Dynamic Trading Signals** with Richard D.F. Harris and Nick Taylor (Revise & Resubmit at Management Science)
 
 <p align="justify">
@@ -68,15 +83,16 @@ EFIM20042, Corporate Finance and Valuation, Undergraduate (2021-2022)
 <br><br><br> 
 
 ## Photographs
+I was born and grew up in Urumuqi, Xinjiang, China where my favorite food is pilaf (抓饭 pilav) and naan (馕 náng).
 
-<img src="images/tianchi.png" alt="Tianchi, Mountain of God" width="75%">
+<img src="images/tianchi.png" alt="Tianchi, Mountain of God" width="100%">
 
 Picture taken at Tianchi, Moutain of God in Fukang, Xinjiang
 
-<img src="_pages/desert.png" alt="Kumtag Desert" width="75%">
+<img src="_pages/desert.png" alt="Kumtag Desert" width="100%">
 
 Picture taken at Kumtag Desert in Shanshan, Xinjiang
 
-<img src="_pages/huoyanshan .png" alt="Huoyan Mountains" width="75%">
+<img src="_pages/huoyanshan .png" alt="Huoyan Mountains" width="100%">
 
 Picture taken at the Flaming Mountains (Huoyan Mountains) in Turpan, Xinjiang
