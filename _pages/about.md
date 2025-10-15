@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Welcome to my website! 
-
+<p align="justify">
 I am Yirong Wang. I am a PhD Candidate in Finance at the University of Bristol, Business School (starting from Oct 2021), where I have been fully funded by the School’s PhD Scholarship. I am under the supervision of Prof. Richard D.F. Harris and Prof. Nick Taylor. My research interests lie in **empirical asset pricing, international finance and macro-finance**, with a particular emphasis on risk-based explanations for variations in asset prices across international markets. 
 
 
@@ -21,18 +21,18 @@ Upcoming trips:
 EURO-FIDAI Paris December 2025; AFA in Philadelphia 2026
 
 
-<br><br><br>   <!-- adds two line breaks -->
+<br><br> <!-- adds two line breaks -->
 ## Education
 
--Ph.D. in Finance, **University of Bristol**, UK (2021 – Present)
+Ph.D. in Finance, **University of Bristol**, UK (2021 – Present)
 
--MPhil in Advanced Studies in Economics, **KU Leuven**, Belgium (2020)
+MPhil in Advanced Studies in Economics, **KU Leuven**, Belgium (2020)
 
--MSc in Business Economics, **KU Leuven**, Belgium (2018)
+MSc in Business Economics, **KU Leuven**, Belgium (2018)
 
--Bsc in Economics, Accounting and Finance, **University of Warsaw**, Poland  (2017)
+Bsc in Economics, Accounting and Finance, **University of Warsaw**, Poland  (2017)
 
-<br><br><br> 
+<br><br>
 
 
 ## Working Papers
@@ -56,7 +56,8 @@ explanation of the forward premium puzzle.
 
 <br><br> 
 
-**Capturing Time-Varying Return Predictability: the Multi-Asset Momentum Strategy with Dynamic Trading Signals** with Richard D.F. Harris and Nick Taylor </p> 
+**Capturing Time-Varying Return Predictability: the Multi-Asset Momentum Strategy with Dynamic Trading Signals** with Richard D.F. Harris and Nick Taylor 
+
 **Revise & Resubmit at Management Science**
 
 <p align="justify">
@@ -68,7 +69,7 @@ Jiaotong University Doctor Consortium 2024 (excellent PhD papers award); Germany
 
 
 
-<br><br><br> 
+<br><br> 
 ## Teaching
 EFIMM0005, Quantitative Methods for Finance and Investment, Postgraduate (2022-2024)
 
@@ -77,7 +78,7 @@ EFIM10029, Financial Markets, Institutions and Instruments, Postgraduate (2022-2
 EFIM20042, Corporate Finance and Valuation, Undergraduate (2021-2022)
 
 
-<br><br><br> 
+<br><br>
 
 ## Photographs
 I was born and grew up in Urumuqi, Xinjiang, China where my favorite food is pilaf (抓饭 pilav) and naan (馕 náng).
