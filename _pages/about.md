@@ -24,21 +24,21 @@ EURO-FIDAI Paris December 2025; AFA in Philadelphia 2026
 <br><br><br>   <!-- adds two line breaks -->
 ## Education
 
-**University of Bristol**, UK 
+-**University of Bristol**, UK 
 
-Ph.D in Finance (2021-now)
+  Ph.D in Finance (2021-now)
 
-**KU Leuven**, Belgium  
+-**KU Leuven**, Belgium  
 
-MPhil in Advanced Studies in Economics (2020) 
+  MPhil in Advanced Studies in Economics (2020) 
 
-**KU Leuven**, Belgium 
+-**KU Leuven**, Belgium 
 
-MSc in Business Economics (2018)
+  MSc in Business Economics (2018)
 
-**University of Warsaw**, Poland 
+-**University of Warsaw**, Poland 
 
-Bsc in Economics, Accounting and Finance (2017)
+  Bsc in Economics, Accounting and Finance (2017)
 
 <br><br><br> 
 
