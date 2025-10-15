@@ -24,16 +24,16 @@ EURO-FIDAI Paris December 2025; AFA in Philadelphia 2026
 <br><br><br>   <!-- adds two line breaks -->
 ## Education
 
-**University of Bristol**, UK 
+**University of Bristol**, UK </p>   
 Ph.D in Finance (2021-now)
 
-**KU Leuven**, Belgium
+**KU Leuven**, Belgium </p>   
 MPhil in Advanced Studies in Economics (2020) 
 
-**KU Leuven**, Belgium
+**KU Leuven**, Belgium </p>   
 MSc in Business Economics (2018)
 
-**University of Warsaw**, Poland
+**University of Warsaw**, Poland </p>   
 Bsc in Economics, Accounting and Finance (2017)
 
 <br><br><br> 
@@ -60,7 +60,8 @@ explanation of the forward premium puzzle.
 
 <br><br> 
 
-**Capturing Time-Varying Return Predictability: the Multi-Asset Momentum Strategy with Dynamic Trading Signals** with Richard D.F. Harris and Nick Taylor (Revise & Resubmit at Management Science)
+**Capturing Time-Varying Return Predictability: the Multi-Asset Momentum Strategy with Dynamic Trading Signals** with Richard D.F. Harris and Nick Taylor </p> 
+**Revise & Resubmit at Management Science**
 
 <p align="justify">
 Abstract: This paper uncovers a time-varying predictable pattern in returns across the bond, equity, and forex markets. Exploiting these time variations in cross-asset return predictability, we develop a dynamic approach to generate out-of-sample trading signals that are employed in a diversified multi-asset time series momentum(M-XTSM) strategy. This approach effectively converts return forecasts into economic gains by allowing investors to adjust their trading positions in real-time in response to changing business cycles. Applying this method to data from 20 developed countries, we show that the M-XTSM strategy delivers substantial abnormal returns with little exposure to standard asset pricing factors and consistently outperforms existing momentum strategies, especially during market downturns. The M-XTSM strategy encompasses the traditional time series momentum (Moskowitz et al., 2012), and its outperformance is not driven by time-varying aggregate market behaviors, rendering it a distinct new phenomenon from cross-sectional momentum (Jegadeesh and Titman, 1993).
