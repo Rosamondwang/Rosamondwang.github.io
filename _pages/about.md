@@ -51,7 +51,7 @@ and global trade and capital flow imbalances in the postcrisis period, providing
 explanation of the forward premium puzzle.
 </p>   
 
-**Presentations** (including scheduled): AFA (PhD poster) 2026*, EURO-FIDAI Paris December 2025*, Shanghai Jiaotong University Doctor Consortium 2025 (excellent PhD papers award)
+**Presentations** (including scheduled): AFA (PhD poster) 2026, EURO-FIDAI Paris December 2025, Shanghai Jiaotong University Doctor Consortium 2025 (excellent PhD papers award)
 
 <br><br> 
 
