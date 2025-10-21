@@ -23,13 +23,13 @@ EURO-FIDAI Paris December 2025; AFA in Philadelphia 2026
 <br><br> <!-- adds two line breaks -->
 ## Education
 
-Ph.D. in Finance, **University of Bristol**, UK (2021 – Present)
+Ph.D in Finance, **University of Bristol**, University of Bristol, UK (2021-current)
 
 MPhil in Advanced Studies in Economics, **KU Leuven**, Belgium (2020)
 
 MSc in Business Economics, **KU Leuven**, Belgium (2018)
 
-Bsc in Economics, Accounting and Finance, **University of Warsaw**, Poland  (2017)
+Bsc in Finance, **University of Warsaw**, Poland  (2017)
 
 <br><br>
 
@@ -82,14 +82,14 @@ EFIM20042, Corporate Finance and Valuation, Undergraduate (2021-2022)
 ## Photographs
 I was born and grew up in Urumuqi, Xinjiang, China where my favorite food is pilaf (抓饭 pilav) and naan (馕 náng).
 
-<img src="images/tianchi.png" alt="Tianchi, Mountain of God" width="100%">
+<img src="images/tianchi.png" alt="Tianchi, Mountain of God" width="90%">
 
 Picture taken at Tianchi, Moutain of God in Fukang, Xinjiang
 
-<img src="_pages/desert.png" alt="Kumtag Desert" width="100%">
+<img src="_pages/desert.png" alt="Kumtag Desert" width="90%">
 
 Picture taken at Kumtag Desert in Shanshan, Xinjiang
 
-<img src="_pages/huoyanshan .png" alt="Huoyan Mountains" width="100%">
+<img src="_pages/huoyanshan .png" alt="Huoyan Mountains" width="90%">
 
 Picture taken at the Flaming Mountains (Huoyan Mountains) in Turpan, Xinjiang
