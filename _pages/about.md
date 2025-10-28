@@ -29,7 +29,7 @@ MPhil in Advanced Studies in Economics, **KU Leuven**, Belgium (2020)
 
 MSc in Business Economics, **KU Leuven**, Belgium (2018)
 
-Bsc in Finance, **University of Warsaw**, Poland  (2017)
+BS in Finance, **University of Warsaw**, Poland  (2017)
 
 <br><br>
 
