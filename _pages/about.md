@@ -80,7 +80,7 @@ EFIM20042, Corporate Finance and Valuation, Undergraduate (2021-2022)
 <br><br>
 
 ## Photographs
-I was born and grew up in Urumuqi, Xinjiang, China where my favorite food is pilaf (抓饭 pilav) and naan (馕 náng).
+I was born and grew up in Urumuqi where my favorite food is pilaf (抓饭 pilav) and naan (馕 náng).
 
 <img src="images/tianchi.png" alt="Tianchi, Mountain of God" width="90%">
 
