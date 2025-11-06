@@ -73,9 +73,9 @@ Jiaotong University Doctor Consortium 2024 (excellent PhD papers award); Germany
 
 <br><br> 
 ## Teaching
-EFIMM0005, Quantitative Methods for Finance and Investment, Postgraduate (2022-2024)
+EFIMM0005, Quantitative Methods for Finance and Investment, Postgraduate (2022-2025)
 
-EFIM10029, Financial Markets, Institutions and Instruments, Postgraduate (2022-2025)
+EFIM10029, Financial Markets, Institutions and Instruments, Undergraduate (2022-2025)
 
 EFIM20042, Corporate Finance and Valuation, Undergraduate (2021-2022)
 
