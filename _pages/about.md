@@ -36,7 +36,7 @@ BS in Finance, **University of Warsaw**, Poland  (2017)
 
 ## Working Papers
 
-**Deviations from Covered Interest Rate Parity, Dollar Funding Pressure, and Currency Risk Premium (Job Market Paper)**
+**Deviations from Covered Interest Rate Parity, Dollar Funding Pressure, and Currency Risk Premium (Job Market Paper)** solo author
 <p align="justify">
 Abstract: This paper investigates the relationship between deviations from Covered Interest Rate Parity (CIP)
 and the cross-sectional variation in currency risk premia. Motivated by the currency hedging channel proposed
