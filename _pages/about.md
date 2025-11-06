@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Welcome to my website! I am Yirong Wang. I am a PhD Candidate in Finance at the University of Bristol (starting from Oct 2021), where I have been fully funded by the School’s PhD Scholarship. I am under the supervision of Prof. Richard D.F. Harris and Prof. Nick Taylor. My research interests lie in **empirical asset pricing, international finance and macro-finance**, with a particular emphasis on risk-based explanations for variations in asset prices across international markets. 
+Welcome to my website! I am Yirong Wang. I am a PhD Candidate in Finance at the University of Bristol (starting from 2021), where I have been fully funded by the School’s PhD Scholarship. I am under the supervision of Prof. Richard D.F. Harris and Prof. Nick Taylor. My research interests lie in **empirical asset pricing, international finance and macro-finance**, with a particular emphasis on risk-based explanations for variations in asset prices across international markets. 
 
 
 **I am on the job market in 2025–26.**
@@ -23,13 +23,13 @@ EUROFIDAI-ESSEC Paris December 2025; AFA in Philadelphia 2026
 <br><br> <!-- adds two line breaks -->
 ## Education
 
-Ph.D in Finance, **University of Bristol**, University of Bristol, UK (2021-current)
+Ph.D in Finance, **University of Bristol**, University of Bristol, UK 
 
-MPhil in Advanced Studies in Economics, **KU Leuven**, Belgium (2021)
+MPhil in Advanced Studies in Economics, **KU Leuven**, Belgium
 
-MSc in Business Economics, **KU Leuven**, Belgium (2019)
+MSc in Business Economics, **KU Leuven**, Belgium 
 
-BS in Finance, **University of Warsaw**, Poland  (2017)
+BS in Finance, **University of Warsaw**, Poland
 
 <br><br>
 
