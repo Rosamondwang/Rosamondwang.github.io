@@ -25,9 +25,9 @@ EUROFIDAI-ESSEC Paris December 2025; AFA in Philadelphia 2026
 
 Ph.D in Finance, **University of Bristol**, University of Bristol, UK (2021-current)
 
-MPhil in Advanced Studies in Economics, **KU Leuven**, Belgium (2020)
+MPhil in Advanced Studies in Economics, **KU Leuven**, Belgium (2021)
 
-MSc in Business Economics, **KU Leuven**, Belgium (2018)
+MSc in Business Economics, **KU Leuven**, Belgium (2019)
 
 BS in Finance, **University of Warsaw**, Poland  (2017)
 
@@ -65,6 +65,9 @@ Abstract: This paper uncovers a time-varying predictable pattern in returns acro
 
 **Presentations**: Asian FA Annual Meeting 2024; University of Bristol Brownbag Seminar; Shanghai
 Jiaotong University Doctor Consortium 2024 (excellent PhD papers award); Germany Finance Association Annual Meeting (DGF) 2024; FMA International Annual Meeting, 2024
+
+
+**Revisiting the Forward Premium Puzzle and Exchange Rate Predictability through the Lens of CIP Violations** (work in progress)
 
 
 
