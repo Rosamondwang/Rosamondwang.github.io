@@ -37,6 +37,22 @@ layout: compress
       </footer>
     </div>
 
+    <script>
+fetch('https://ipapi.co/json/')
+  .then(res => res.json())
+  .then(data => {
+    if (data.country_code === 'GB') {
+      document.body.innerHTML = `
+        <div style="text-align:center; margin-top:20%;">
+          <h2>Access Restricted</h2>
+          <p>This site is not available in your region.</p>
+        </div>`;
+    }
+  })
+  .catch(err => console.error('Geolocation check failed:', err));
+</script>
+
+
     {% include scripts.html %}
 
   </body>
