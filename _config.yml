@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # Currently available options are "default", "air"
-title                    : "Yirong Wang (王艺蓉)"
+title                    : "Yirong Wang"
 title_separator          : "-"
 name                     : &name "Yirong Wang"
 description              : &description "Yirong Wang's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
