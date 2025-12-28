@@ -23,7 +23,8 @@ EUROFIDAI-ESSEC Paris December 2025; AFA in Philadelphia 2026
 <br><br> <!-- adds two line breaks -->
 ## Education
 
-Ph.D in Finance, **University of Bristol**, University of Bristol, UK 
+Ph.D in Finance, **University of Bristol**, University of Bristol, UK
+Committee members : Amit Goyal, Richard D.F. Harris, Nick Taylor, Ian Tonks
 
 MPhil in Advanced Studies in Economics, **KU Leuven**, Belgium
 
@@ -32,6 +33,7 @@ MSc in Business Economics, **KU Leuven**, Belgium
 BS in Finance, **University of Warsaw**, Poland
 
 <br><br>
+
 
 
 ## Working Papers
@@ -59,6 +61,19 @@ Abstract: This paper uncovers a time-varying predictable pattern in returns acro
 
 
 **Revisiting the Forward Premium Puzzle and Exchange Rate Predictability through the Lens of CIP Violations** (work in progress)
+
+
+
+<br><br> 
+## Reference
+Amit Goyal, Professor of Finance, University of Lausanne and Swiss Finance Institute, Email: amit.goyal@unil.ch
+
+Richard D.F. Harris, Professor of Finance, University of Bristol, Email: richard.harris@bristol.ac.uk
+
+Nick Taylor, Professor of Finance, University of Bristol, Email: nick.taylor@bristol.ac.uk
+
+Zeming Li, Lecturer of Finance, University of Bristol, Email: zeming.li@bristol.ac.uk
+
 
 
 
