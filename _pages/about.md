@@ -24,6 +24,7 @@ EUROFIDAI-ESSEC Paris December 2025; AFA in Philadelphia 2026
 ## Education
 
 Ph.D in Finance, **University of Bristol**, University of Bristol, UK
+
 Committee members : Amit Goyal, Richard D.F. Harris, Nick Taylor, Ian Tonks
 
 MPhil in Advanced Studies in Economics, **KU Leuven**, Belgium
